@@ -1,0 +1,11 @@
+
+{
+    "product":{
+        "id":"1",
+        "name":"Animi Dolor Pariatur",
+        "price":"216",
+        "quantity":"50",
+        "imagePath":"assets/images/product-1.jpg"
+    }
+   
+}
